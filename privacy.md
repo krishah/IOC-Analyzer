@@ -2,7 +2,7 @@
 
 **Release Date:** 2025-05-16  
 **Version:** 1.0.0  
-**Author:** [Your Name or Organization]
+**Author:** Grzegorz Data
 
 ## 🔐 1. User Data Handling
 
