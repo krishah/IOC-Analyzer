@@ -1,0 +1,14 @@
+{
+  "name": "IOC Analyzer",
+  "description": "Rozszerzenie Chrome do analizy IOC (IP, URL, hash) z konfigurowalnymi analizatorami. (c) G Data",
+  "version": "1.0",
+  "manifest_version": 3,
+  "permissions": ["contextMenus", "storage", "tabs", "scripting"],
+  "host_permissions": ["<all_urls>"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_popup": "popup.html"
+  }
+}

@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>IOC Analyzer - Ustawienia</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 10px;
+      width: 320px;
+      background-color: #f9f9f9;
+    }
+
+    h3 {
+      margin-top: 0;
+      color: #333;
+      text-align: center;
+    }
+
+    .analyzer {
+      background: white;
+      padding: 10px;
+      margin-bottom: 12px;
+      border-radius: 8px;
+      box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+    }
+
+    .analyzer input[type="text"] {
+      width: 100%;
+      margin: 5px 0;
+      padding: 6px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+      font-size: 13px;
+    }
+
+    .analyzer input[type="checkbox"] {
+      transform: scale(1.2);
+      margin-right: 6px;
+    }
+
+    .analyzer label {
+      font-weight: bold;
+      font-size: 13px;
+    }
+
+    button {
+      margin-top: 10px;
+      width: 100%;
+      background-color: #1976d2;
+      color: white;
+      padding: 8px 0;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-weight: bold;
+      font-size: 14px;
+    }
+
+    button:hover {
+      background-color: #1565c0;
+    }
+
+    button:active {
+      background-color: #0d47a1;
+    }
+  </style>
+</head>
+<body>
+  <h3>Analizatory IOC</h3>
+  <div id="analyzer-list"></div>
+  <button id="add">Dodaj analizator</button>
+  <button id="save">Zapisz zmiany</button>
+  <script src="popup.js"></script>
+</body>
+</html>
