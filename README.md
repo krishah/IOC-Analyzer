@@ -15,13 +15,27 @@ A privacy-respecting, open-source Chrome extension that helps analysts quickly i
 
 ## 🧩 Supported Analyzers (examples)
 
-- [VirusTotal](https://www.virustotal.com)
-- [Abuse.ch](https://abuse.ch)
-- [MISP (local instance)](https://github.com/MISP/MISP)
-- [OpenCTI](https://www.opencti.io/)
-- [Hybrid Analysis](https://www.hybrid-analysis.com/)
-- [AlienVault OTX](https://otx.alienvault.com/)
-- [URLhaus](https://urlhaus.abuse.ch/)
+- [VirusTotal](https://
+www.virustotal.com
+)
+- [Abuse.ch](https://
+abuse.ch
+)
+- [MISP (local instance)](https://
+github.com
+/MISP/MISP)
+- [OpenCTI](https://
+www.opencti.io
+/)
+- [Hybrid Analysis](https://
+www.hybrid-analysis.com
+/)
+- [AlienVault OTX](https://
+otx.alienvault.com
+/)
+- [URLhaus](https://
+urlhaus.abuse.ch
+/)
 - [AbuseIPDB, Vulners, Pastebin, CheckTor, etc.]
 
 ## 🛠️ Installation
@@ -36,7 +50,9 @@ A privacy-respecting, open-source Chrome extension that helps analysts quickly i
 - No data is sent externally.
 - No user tracking.
 - No background surveillance.
-- See [Privacy Policy](./privacy.md)
+- See [Privacy Policy](./
+privacy.md
+)
 
 ## 📜 License
 
@@ -44,7 +60,9 @@ A privacy-respecting, open-source Chrome extension that helps analysts quickly i
 
 ## 📫 Contact
 
-- GitHub Issues: [your-repo-link/issues](https://github.com/your-org/ioc-analyzer-extension/issues)
+- GitHub Issues: [krishah/IOC-Analyzer/issues](https://
+github.com
+/krishah/ioc-analyzer-extension/issues)
 - Email: `your-email@example.com`
 
 ---
