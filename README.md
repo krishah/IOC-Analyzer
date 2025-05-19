@@ -1,6 +1,7 @@
 
 # 🧠 IOC Analyzer – Chrome Extension for Threat Intelligence
 
+
 A privacy-respecting, open-source Chrome extension that helps analysts quickly investigate Indicators of Compromise (IOCs) across multiple threat intelligence platforms – directly from your browser.
 
 ## 🚀 Features

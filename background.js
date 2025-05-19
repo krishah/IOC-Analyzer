@@ -10,7 +10,7 @@ chrome.runtime.onInstalled.addListener(() => {
         enabled: true
       },
       {
-        name: "MISP (lokalny)",
+        name: "MISP (local)",
         urlTemplate: "https://misp.local/events/index/searchall:{ioc}",
         supportedTypes: ["ip", "hash", "url"],
         enabled: true
@@ -140,7 +140,7 @@ chrome.runtime.onInstalled.addListener(() => {
 
   chrome.contextMenus.create({
     id: "analyze-ioc",
-    title: "Analizuj IOC",
+    title: "Analyze IOC",
     contexts: ["selection"]
   });
 });
