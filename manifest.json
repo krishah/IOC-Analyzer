@@ -3,7 +3,7 @@
   "description": "Chrome Extension for Analysis IOC (IP, URL, hash) z konfigurowalnymi analizatorami. (c) G Data",
   "version": "1.0",
   "manifest_version": 3,
-  "permissions": ["contextMenus", "storage", "tabs", "scripting"],
+  "permissions": ["contextMenus", "storage"],
   "host_permissions": ["<all_urls>"],
   "background": {
     "service_worker": "background.js"
